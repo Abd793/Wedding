@@ -24,9 +24,9 @@
         subtitle: 'What we have planned for you',
         welcome: { title: 'Guest Reception', desc: 'Welcoming guests' },
         ceremony: { title: 'Bride & Groom Entrance', desc: 'Grand entrance of the couple' },
-        cake: { title: "Girls' Dance", desc: 'Dance performance' },
-        dance: { title: 'Groom Entrance & Cake Cutting', desc: 'Entrance and cake ceremony' },
-        end: { title: 'Families Entrance', desc: 'Entrance of bride and groom families' }
+        cake: { title: 'Bride Celebration', desc: 'Groom break outside the hall and women-only atmosphere.' },
+        dance: { title: 'Groom Entrance', desc: 'Cake cutting and wedding ring exchange' },
+        end: { title: 'Reception of Bride and Groom Families', desc: 'Entrance of both families and sharing joyful moments' }
       },
       info: {
         title: 'Important Information',
@@ -77,9 +77,9 @@
         subtitle: 'Was wir für euch geplant haben',
         welcome: { title: 'Empfang der Gäste', desc: 'Begrüßung der Gäste' },
         ceremony: { title: 'Einzug des Brautpaares', desc: 'Großer Einzug des Paares' },
-        cake: { title: 'Tanz der Mädchen', desc: 'Tanzaufführung' },
-        dance: { title: 'Einzug des Bräutigams & Tortenanschnitt', desc: 'Einzug und Tortenzeremonie' },
-        end: { title: 'Einzug der Familien', desc: 'Einzug der Familien von Braut und Bräutigam' }
+        cake: { title: 'Feier für die Braut', desc: 'Pause für den Bräutigam außerhalb des Saals und eine Atmosphäre nur für Frauen.' },
+        dance: { title: 'Einzug des Bräutigams', desc: 'Tortenanschnitt und Austausch der Eheringe' },
+        end: { title: 'Empfang der Familien von Braut und Bräutigam', desc: 'Einzug beider Familien und gemeinsame Freudenmomente' }
       },
       info: {
         title: 'Wichtige Informationen',
@@ -130,9 +130,9 @@
         subtitle: 'ما خططناه لكم',
         welcome: { title: 'استقبال الضيوف', desc: 'الترحيب بالضيوف' },
         ceremony: { title: 'دخول العرسان', desc: 'الدخول الرسمي للعروسين' },
-        cake: { title: 'رقص الفتيات', desc: 'فقرة رقص' },
-        dance: { title: 'دخول العريس وتقطيع الكيك', desc: 'دخول العريس وفقرة تقطيع الكيك' },
-        end: { title: 'دخول أهل العروس والعريس', desc: 'دخول أهل العروس وأهل العريس' }
+        cake: { title: 'احتفال بالعروس', desc: 'استراحة العريس خارج القاعة و أجواء للنساء فقط.' },
+        dance: { title: 'دخول العريس', desc: 'تقطيع الكيك و تبديل خواتم الزواج' },
+        end: { title: 'استقبال اهل العروس و العريس', desc: 'دخول أسرتي العروسين ومشاركتهم لحظات الفرح' }
       },
       info: {
         title: 'معلومات مهمة',
