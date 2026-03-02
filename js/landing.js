@@ -38,4 +38,8 @@
       }
     });
   }
+
+  if (window.matchMedia('(max-width: 768px)').matches) {
+    landing.addEventListener('click', openLanding);
+  }
 })();

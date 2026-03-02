@@ -2293,13 +2293,13 @@ form label {
   .envelope-reveal {
     height: 100%;
   }
-  .envelope-photo,
-  .envelope-flap-photo {
-    background-size: contain;
-    background-position: center;
+  .envelope-photo {
+    background-image: url("../images/mobile-envelope.png");
+    background-size: cover;
+    background-position: center center;
   }
   .envelope-flap-photo {
-    clip-path: polygon(18% 12%, 82% 12%, 50% 46%);
+    display: none;
   }
   .seal {
     font-size: 22px;
