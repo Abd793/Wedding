@@ -22,11 +22,11 @@
       program: {
         title: 'Day Program',
         subtitle: 'What we have planned for you',
-        welcome: { title: 'Welcome', desc: 'Arrival & drinks' },
-        ceremony: { title: 'Ceremony', desc: 'We say “I do”' },
-        cake: { title: 'Cake Cutting', desc: 'Sweet celebration' },
-        dance: { title: 'First Dance', desc: 'Let’s hit the dance floor' },
-        end: { title: 'End of Party', desc: 'Thank you for celebrating' }
+        welcome: { title: 'Guest Reception', desc: 'Welcoming guests' },
+        ceremony: { title: 'Bride & Groom Entrance', desc: 'Grand entrance of the couple' },
+        cake: { title: "Girls' Dance", desc: 'Dance performance' },
+        dance: { title: 'Groom Entrance & Cake Cutting', desc: 'Entrance and cake ceremony' },
+        end: { title: 'Families Entrance', desc: 'Entrance of bride and groom families' }
       },
       info: {
         title: 'Important Information',
@@ -71,11 +71,11 @@
       program: {
         title: 'Tagesprogramm',
         subtitle: 'Was wir für euch geplant haben',
-        welcome: { title: 'Willkommen', desc: 'Ankunft & Getränke' },
-        ceremony: { title: 'Trauung', desc: 'Wir sagen „Ja“' },
-        cake: { title: 'Tortenanschnitt', desc: 'Süße Feier' },
-        dance: { title: 'Erster Tanz', desc: 'Lasst uns tanzen' },
-        end: { title: 'Ende der Feier', desc: 'Danke, dass ihr mit uns feiert' }
+        welcome: { title: 'Empfang der Gäste', desc: 'Begrüßung der Gäste' },
+        ceremony: { title: 'Einzug des Brautpaares', desc: 'Großer Einzug des Paares' },
+        cake: { title: 'Tanz der Mädchen', desc: 'Tanzaufführung' },
+        dance: { title: 'Einzug des Bräutigams & Tortenanschnitt', desc: 'Einzug und Tortenzeremonie' },
+        end: { title: 'Einzug der Familien', desc: 'Einzug der Familien von Braut und Bräutigam' }
       },
       info: {
         title: 'Wichtige Informationen',
@@ -120,11 +120,11 @@
       program: {
         title: 'برنامج اليوم',
         subtitle: 'ما خططناه لكم',
-        welcome: { title: 'الاستقبال', desc: 'الوصول والمشروبات' },
-        ceremony: { title: 'الزفاف', desc: 'نقول نعم' },
-        cake: { title: 'تقطيع الكعكة', desc: 'احتفال حلو' },
-        dance: { title: 'الرقصة الأولى', desc: 'هيا إلى ساحة الرقص' },
-        end: { title: 'نهاية الحفل', desc: 'شكرًا لمشاركتكم فرحتنا' }
+        welcome: { title: 'استقبال الضيوف', desc: 'الترحيب بالضيوف' },
+        ceremony: { title: 'دخول العرسان', desc: 'الدخول الرسمي للعروسين' },
+        cake: { title: 'رقص الفتيات', desc: 'فقرة رقص' },
+        dance: { title: 'دخول العريس وتقطيع الكيك', desc: 'دخول العريس وفقرة تقطيع الكيك' },
+        end: { title: 'دخول أهل العروس والعريس', desc: 'دخول أهل العروس وأهل العريس' }
       },
       info: {
         title: 'معلومات مهمة',
