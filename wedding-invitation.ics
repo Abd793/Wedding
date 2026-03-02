@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ruha Abdul Rahman Wedding//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ruha-abdul-wedding-20260401@abd793.github.io
+DTSTAMP:20260302T120000Z
+DTSTART:20260401T150000Z
+DTEND:20260401T210000Z
+SUMMARY:Ruha & Abdul Wedding
+DESCRIPTION:We are getting married. We would love for you to celebrate with us.
+LOCATION:Rüya Events, Nonnendammallee 120, 13629 Berlin
+URL:https://abd793.github.io/Wedding/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
