@@ -36,7 +36,11 @@
         },
         kids: {
           q: 'Can children attend?',
-          a: 'We want this day to be a special celebration for adults. We appreciate if you arrange childcare for the little ones so we can all enjoy the party together.'
+          a: 'We confirm that the celebration is strictly for adults only. Any child will be politely refused entry at the door. Please fully comply without exception.'
+        },
+        photo: {
+          q: 'Is photography allowed during the celebration?',
+          a: 'Please strictly refrain from all photography to protect the privacy of the celebration. The use of any recording device is prohibited under all circumstances. Any violation will result in immediate deletion of content and leaving the hall.'
         }
       },
       highlights: {
@@ -85,7 +89,11 @@
         },
         kids: {
           q: 'Können Kinder teilnehmen?',
-          a: 'Wir möchten, dass dieser Tag eine besondere Feier für Erwachsene ist. Bitte organisiert eine Betreuung für die Kleinen, damit wir gemeinsam feiern können.'
+          a: 'Wir bestätigen ausdrücklich, dass die Feier ausschließlich für Erwachsene ist. Jedes Kind wird am Eingang höflich abgewiesen. Wir bitten um vollständige Einhaltung ohne Ausnahmen.'
+        },
+        photo: {
+          q: 'Ist Fotografieren während der Feier erlaubt?',
+          a: 'Bitte fotografiert ausnahmslos nicht, um die Privatsphäre der Feier zu schützen. Die Nutzung jedes Aufnahmegeräts ist unter allen Umständen untersagt. Jeder Verstoß führt zur sofortigen Löschung der Inhalte und zum Verlassen des Saals.'
         }
       },
       highlights: {
@@ -134,7 +142,11 @@
         },
         kids: {
           q: 'هل يمكن للأطفال الحضور؟',
-          a: 'نود أن يكون هذا اليوم احتفالًا مميزًا للبالغين. نرجو ترتيب رعاية للأطفال حتى نستمتع جميعًا بالحفل معًا.'
+          a: 'نؤكد بشكل قاطع أن الحفل مخصص للبالغين فقط، وأي طفل سيتم الاعتذار عن استقباله عند الدخول. نرجو الالتزام التام دون استثناء.'
+        },
+        photo: {
+          q: 'هل يُسمح بالتصوير خلال الحفل؟',
+          a: 'يرجى الالتزام بعدم التصوير نهائيًا حفاظًا على خصوصية الحفل، ويُمنع استخدام أي جهاز تصوير تحت أي ظرف. أي مخالفة ستؤدي إلى طلب حذف المحتوى فورًا و مغادرة القاعة.'
         }
       },
       highlights: {
