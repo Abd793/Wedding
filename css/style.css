@@ -499,6 +499,7 @@ html[dir="rtl"] .fh5co-nav ul li.lang-switcher {
   right: 0;
   bottom: 0;
   background: rgba(0, 0, 0, 0.04);
+  pointer-events: none;
 }
 @media screen and (max-width: 768px) {
   #fh5co-counter,
@@ -519,6 +520,8 @@ html[dir="rtl"] .fh5co-nav ul li.lang-switcher {
   padding: 30px;
   width: 100%;
   float: left;
+  position: relative;
+  z-index: 1;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -560,6 +563,14 @@ html[dir="rtl"] .fh5co-nav ul li.lang-switcher {
   width: 50%;
   float: left;
   margin-bottom: 30px;
+}
+#fh5co-event .event-wrap p a {
+  position: relative;
+  z-index: 2;
+  display: inline-block;
+  padding: 4px 0;
+  pointer-events: auto;
+  text-decoration: underline;
 }
 
 #fh5co-counter {

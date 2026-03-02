@@ -16,7 +16,7 @@
       events: {
         title: 'Events',
         wedding: 'Wedding',
-        date: '01 April 2026',
+        date: '01/04/2026',
         at: 'At'
       },
       program: {
@@ -69,7 +69,7 @@
       events: {
         title: 'Events',
         wedding: 'Hochzeit',
-        date: '01. April 2026',
+        date: '01/04/2026',
         at: 'Bei'
       },
       program: {
@@ -122,7 +122,7 @@
       events: {
         title: 'الفعاليات',
         wedding: 'الزفاف',
-        date: '01 أبريل 2026',
+        date: '01/04/2026',
         at: 'في'
       },
       program: {
